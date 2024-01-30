@@ -59,6 +59,8 @@ header {
   background-color: #18003c;
   color: #fff;
   padding-left: 20px;
+  position: relative;
+  z-index: 1;
 }
 
 nav{
@@ -79,3 +81,37 @@ nav a {
   cursor: pointer;
 }
 
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+#menu {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 45%;
+  width: 200px;
+  margin-top: 50px;
+  background-color: #18003c;
+  padding-top: 30px; 
+  z-index: 2;
+}
+
+#menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#menu li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+#menu li:hover {
+  background-color: #5f4da8;
+
+}
