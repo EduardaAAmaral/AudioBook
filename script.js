@@ -160,4 +160,4 @@ function mao(){
 
 botaoPlayPause.addEventListener('click', tocarOuPausar);
 botaoproximo.addEventListener('click', proximaFaixa);
-botaovoltar.addEventListener('click', VoltarFaixa)
+botaovoltar.addEventListener('click', VoltarFaixa);
