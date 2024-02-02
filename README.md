@@ -9,3 +9,21 @@
 
   <h2 align="letf">💻 Tecnologia Utilizada</h2>
   
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+  <h2 align="letf">🦾 Funcionalidades do Projeto </h2>
+
+  <p>✅📕 LIVRO NO AUDIOBOOK</p>
+  
+  - `A mão e a Luva`: Machado de Assis, com 19 capítulos
+  - `Casa Velha`: Machado de Assis, com 8 capítulos
+  - `Coleção de Poemas`: Machado de Assis, com 20 capítulos
+  - `Desencanto`: Machado de Assis, com 2 capítulos
+  - `Dom-Casmurro`: Machado de Assis, com 10 capítulos
+  - `Helena`: Machado de Assis, com 28 capítulos
+  - `Quincas Borda`: Machado de Assis, com 15 capítulos
+
+  <p>✅Galeria e Cards Funcionando.</p>
+  <p>✅Áudio para cada livro respectivos em pastas com os nomes dos livros. [Feito!]</p>
