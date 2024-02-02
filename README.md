@@ -25,5 +25,5 @@
   - `Helena`: Machado de Assis, com 28 capítulos
   - `Quincas Borda`: Machado de Assis, com 15 capítulos
 
-  <p>✅Galeria e Cards Funcionando.</p>
+  <p>✅Pastas e Cards Funcionando.</p>
   <p>✅Áudio para cada livro respectivos em pastas com os nomes dos livros. [Feito!]</p>
